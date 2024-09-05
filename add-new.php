@@ -1,7 +1,7 @@
 <?php
 session_start();
 include "db_conn.php";
-//ADD THE CODE GIVEN IN REPO FOR OTP VERIFICATION
+//ADD THE CODE GIVEN IN README FOR OTP VERIFICATION
 ?>
 <!DOCTYPE html>
 <html lang="en">
